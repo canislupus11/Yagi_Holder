@@ -1,6 +1,7 @@
 //!OpenSCAD
 //Customizable Yagi Antenna Holder
-//Developed by Blaz Bratus - Institute IRNAS Race - www.irnas.eu
+//Oryginal by Blaz Bratus - Institute IRNAS Race - www.irnas.eu
+//Upgraded by Szymon Reiter
 //License: Creative Commons Attribution-ShareAlike 4.0 International License
 //Version: 1.0
 
